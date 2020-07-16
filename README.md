@@ -4,4 +4,4 @@
 
 
 
-<li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong android</a></li>
+<li><a href="https://github.com/DuongNhatMinh/LamQuenAndroid">Lập trình Android dùng Android Studio</a></li>
